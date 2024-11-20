@@ -9,7 +9,7 @@ from io import BytesIO
 
 NUM_IMAGES = 100
 SEARCH_TERM = "gantungan kunci souvenir bali"
-FOLDER_NAME = "images/" + SEARCH_TERM 
+FOLDER_NAME = "images/" + SEARCH_TERM
 
 HEADLESS = True
 THUMBNAIL_SELECTORS =[ "g-img.mNsIhb img.YQ4gaf", "g-img.tb08Pd img.YQ4gaf"]
